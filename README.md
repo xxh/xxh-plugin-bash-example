@@ -15,7 +15,7 @@ xxh +I xxh-plugin-bash-yourtitle+git+https://github.com/yourname/xxh-plugin-bash
 
 ## Examples
 
-🔎 [Search xxh plugins on Github](https://github.com/search?q=xxh-plugin-bash&type=Repositories) or [Bitbucket](https://bitbucket.org/repo/all?name=xxh-plugin-bash) or 💡 [Create xxh plugin](https://github.com/xxh/xxh-plugin-bash-example)
+🔎 [Search xxh plugins on Github](https://github.com/search?q=xxh-plugin-bash&type=Repositories) or [Bitbucket](https://bitbucket.org/repo/all?name=xxh-plugin-bash)
 
 
 ## Install
