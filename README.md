@@ -11,7 +11,7 @@ Example plugin for xxh bash shell. It just prints hello message on loading.
 ```
 xxh +I xxh-plugin-bash-yourtitle+git+https://github.com/yourname/xxh-plugin-bash-yourtitle
 ```
-6. Try connect in update mode: `xxh [user@]host[:port] +s bash-zero +if`
+6. Try connect in update mode: `xxh [user@]host[:port] +s bash +if`
 
 ## Examples
 
@@ -29,5 +29,5 @@ xxh +I xxh-plugin-bash-example+git+https://github.com/xxh/xxh-plugin-bash-exampl
 ```    
 Connect:
 ``````
-xxh yourhost +s bash-zero +if
+xxh yourhost +s bash +if
 ```
